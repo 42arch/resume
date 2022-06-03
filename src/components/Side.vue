@@ -30,7 +30,7 @@ const skillList = ref<SkillType[]>([
       { label: 'React', proficiency: 73, icons: ['vscode-icons:file-type-reactts'] },
       { label: 'Nuxt.js', proficiency: 29, icons: ['vscode-icons:file-type-nuxt'] },
       { label: 'Next.js', proficiency: 78, icons: ['vscode-icons:file-type-light-next'] },
-      { label: 'Nest.js', proficiency: 65, icons: ['vscode-icons:file-type-nestjs'] },
+      { label: 'Nest.js', proficiency: 65, icons: ['vscode-icons:file-type-nestjs', 'vscode-icons:file-type-graphql'] },
       { label: 'Sass/Less', proficiency: 78, icons: ['vscode-icons:file-type-sass', 'vscode-icons:file-type-less'] },
       { label: 'TailwindCSS', proficiency: 85, icons: ['vscode-icons:file-type-tailwind'] },
       { label: 'Build Tools', proficiency: 70, icons: ['vscode-icons:file-type-webpack', 'vscode-icons:file-type-vite', 'vscode-icons:file-type-rollup', 'vscode-icons:file-type-npm'] },
@@ -59,7 +59,7 @@ const skillList = ref<SkillType[]>([
 <template>
   <div class="p-8 h-full">
     <div class="mb-6">
-      <img class="h-16 w-16 rounded-full" src="../assets/a.jpg"/>
+      <!-- <img class="h-16 w-16 rounded-full" src="../assets/a.jpg"/> -->
       <p class="text-2xl">
         任丹
       </p>

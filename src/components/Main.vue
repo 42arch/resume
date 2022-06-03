@@ -15,7 +15,7 @@ import { Icon } from '@iconify/vue'
           GIS专业硕士研究生毕业，两年开发工作经验。由于专业的原因，从事过WebGIS方面的前后端开发，擅长地图和数据可视化领域（ArcGIS API，Leaflet，MapboxGL，There.js等），目前开始将技术栈集中在前端方面（学习Next.js，Nuxt.js和Nest.js中）。
         </p>
         <p>
-          熟悉TypeScript，熟悉SASS/LESS等预处理器，熟悉Tailwind等原子化CSS框架，熟悉Vue2，Vue3及其生态（ElementUI，NaiveUI等），熟悉React及其生态，熟悉Nest.js等Node.js框架及其生态（TypeORM等），熟悉Next.js等SSR框架。
+          熟悉TypeScript，熟悉SASS/LESS等预处理器，熟悉Tailwind等原子化CSS框架，熟悉Vue2，Vue3及其生态（ElementUI，NaiveUI等），熟悉React及其生态，熟悉Nest.js等Node.js框架及其生态（TypeORM, GraphQL等），熟悉Next.js等SSR框架。
         </p>
         <p>
           熟悉Git，Docker，Nginx，Linux等，了解Travis，Github Actions等CI/CD工具，了解NPM CLI，NPX等工具链的开发。有Python等其他编程语言开发经验，了解PostgreSQL等数据库。
