@@ -59,7 +59,7 @@ const skillList = ref<SkillType[]>([
 <template>
   <div class="p-8 h-full">
     <div class="mb-6">
-      <!-- <img class="h-16 w-16 rounded-full" src="../assets/a.jpg"/> -->
+      <img class="h-16 w-16 rounded-full" src="../assets/a.jpg"/>
       <p class="text-2xl">
         任丹
       </p>
