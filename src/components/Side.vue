@@ -18,8 +18,8 @@ const skillList = ref<SkillType[]>([
   {
     type: '前端',
     skills: [
-      { label: 'html/css', proficiency: 78, icons: ['vscode-icons:file-type-html', 'vscode-icons:file-type-css'] },
-      { label: 'JavaScript', proficiency: 83, icons: ['vscode-icons:file-type-js-official'] },
+      { label: 'HTML/CSS', proficiency: 80, icons: ['vscode-icons:file-type-html', 'vscode-icons:file-type-css'] },
+      { label: 'JavaScript', proficiency: 85, icons: ['vscode-icons:file-type-js-official'] },
       { label: 'TypeScript', proficiency: 64, icons: ['vscode-icons:file-type-typescript-official'] },
     ]
   },
