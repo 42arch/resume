@@ -104,7 +104,7 @@ const skillList = ref<SkillType[]>([
         <p class="flex items-center break-all">
           <Icon class="w-4 h-4" icon="fa:train"/>
           <span class="pl-8">
-            来自安徽，现处上海
+            安徽人，现在上海
           </span>
         </p>
       </div>

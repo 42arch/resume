@@ -12,7 +12,7 @@ import { Icon } from '@iconify/vue'
         自我介绍</p>
       <span class="text-base py-4 opacity-80">
         <p>
-          • GIS专业硕士研究生毕业，两年开发工作经验。由于专业的原因，从事过WebGIS方面的前后端开发，擅长地图和数据可视化领域（ArcGIS API，Leaflet，MapboxGL，There.js等），目前开始将技术栈集中在前端方面（学习Next.js，Nuxt.js和Nest.js中）。
+          • GIS专业硕士研究生毕业，两年开发工作经验。由于专业的原因，从事过WebGIS方面的前后端开发，擅长地图和数据可视化领域（ArcGIS API，Leaflet，MapboxGL），目前开始将技术栈集中在前端方面（学习Next.js，Nest.js和Three.js中）。
         </p>
         <p>
           • 熟悉TypeScript，熟悉Sass/Less等预处理器，熟悉Tailwind等原子化CSS框架，熟悉Vue2，Vue3及其生态（ElementUI，NaiveUI等），熟悉React及其生态，熟悉Nest.js等Node.js框架及其生态（TypeORM, GraphQL等），熟悉Next.js等SSR框架。
@@ -42,12 +42,12 @@ import { Icon } from '@iconify/vue'
         <span class="opacity-80">
           <p> • 任职期间，前期主要在业务部门为政府国土资源部门开发地理数据分析管理和可视化系统，后期调往研发部门负责部分产品的前端开发工作。</p>
           <p>
-            • 公司主要技术栈：SpringBoot，Dojo，Vue2, ElementUI, Echarts, Arcgis Api, OpenLayers, Leaflet等。
+            • 公司主要技术栈：SpringBoot, Dojo, Vue2, ElementUI, Echarts, Arcgis Api, OpenLayers, Leaflet等。
           </p>
           <p>
-            • 项目经历：1.参与“深圳粤港澳智慧湾区”项目时，作为主要开发，实现了地理数据分析算法的后端接口，和前端可视化展示。
-            2.参与“浙江国土空间信息迭代深化”项目时，作为主要前端，重构了部分代码，提取封装公共组件和逻辑，实现和优化大文件上传功能等。
-            3.参与过公司内部地图框架库的封装开发，主要技术为TypeScrit和Rollup等。
+            • 项目经历：1.参与“深圳粤港澳智慧湾区”项目时，作为主要开发，实现了地理数据分析算法的后端接口，和前端地图可视化展示。
+            2.参与“浙江国土空间信息迭代深化（数字中台）”项目时，作为主要前端，重构了部分代码，提取封装公共组件和逻辑，实现和优化大文件上传功能等。
+            3.参与过公司内部地图框架库的封装开发，主要技术为TypeScrit和Rollup等，同时也参与部分政府大屏项目的开发和维护。
           </p>
         </span>
       </div>
