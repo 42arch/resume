@@ -15,7 +15,7 @@ import { Icon } from '@iconify/vue'
           • GIS专业硕士研究生毕业，两年开发工作经验。由于专业的原因，从事过WebGIS方面的前后端开发，擅长地图和数据可视化领域（ArcGIS API，Leaflet，MapboxGL），目前开始将技术栈集中在前端方面（学习Next.js，Nest.js和Three.js中）。
         </p>
         <p>
-          • 熟悉TypeScript，熟悉Sass/Less等预处理器，熟悉Tailwind等原子化CSS框架，熟悉Vue2，Vue3及其生态（ElementUI，NaiveUI等），熟悉React及其生态，熟悉Nest.js等Node.js框架及其生态（TypeORM, GraphQL等），熟悉Next.js等SSR框架。
+          • 熟悉TypeScript，熟悉Sass/Less等预处理器，熟悉TailwindCSS等原子化CSS框架，熟悉Vue2，Vue3及其生态（ElementUI，NaiveUI等），熟悉React及其生态，熟悉Nest.js等Node.js框架及其生态（TypeORM, GraphQL等），熟悉Next.js等SSR框架。
         </p>
         <p>
           • 熟悉Git，Docker，Nginx，Linux等，了解Travis，Github Actions等CI/CD工具，了解NPM CLI，NPX等工具链的开发。有Python等其他编程语言开发经验，了解PostgreSQL等数据库。
@@ -111,7 +111,8 @@ import { Icon } from '@iconify/vue'
           <p>链接：https://github.com/REND42/google-doodles-mini-app</p>
         </p>
         <span>
-          <p>展示谷歌发布的所有涂鸦信息，后端基于Nest.js，每天实时爬取谷歌官网数据并存储在数据库中，前端基于TypeScript和VantUI。</p>
+          <img class="w-64 h-72" src="../assets/wechat.jpg" alt="doodle">
+          <p>展示谷歌发布的所有涂鸦信息，Node爬虫每天实时抓取谷歌官网数据并存储在数据库中,后端接口基于Nest.js，前端基于TypeScript和VantUI。</p>
         </span>
       </div>
     </div>
